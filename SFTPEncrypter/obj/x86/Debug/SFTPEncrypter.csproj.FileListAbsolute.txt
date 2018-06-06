@@ -1,0 +1,7 @@
+c:\users\tavano\documents\visual studio 2010\Projects\SFTPEncrypter\SFTPEncrypter\obj\x86\Debug\SFTPEncrypter.Form1.resources
+c:\users\tavano\documents\visual studio 2010\Projects\SFTPEncrypter\SFTPEncrypter\obj\x86\Debug\SFTPEncrypter.Properties.Resources.resources
+c:\users\tavano\documents\visual studio 2010\Projects\SFTPEncrypter\SFTPEncrypter\obj\x86\Debug\SFTPEncrypter.csproj.GenerateResource.Cache
+c:\users\tavano\documents\visual studio 2010\Projects\SFTPEncrypter\SFTPEncrypter\bin\Debug\SFTPEncrypter.exe
+c:\users\tavano\documents\visual studio 2010\Projects\SFTPEncrypter\SFTPEncrypter\bin\Debug\SFTPEncrypter.pdb
+c:\users\tavano\documents\visual studio 2010\Projects\SFTPEncrypter\SFTPEncrypter\obj\x86\Debug\SFTPEncrypter.exe
+c:\users\tavano\documents\visual studio 2010\Projects\SFTPEncrypter\SFTPEncrypter\obj\x86\Debug\SFTPEncrypter.pdb
